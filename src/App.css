@@ -1,0 +1,62 @@
+.page{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.header{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  font-size: 30px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
+.pokemon_cards{
+  display: flex;
+  justify-content: center;
+}
+
+.card{
+  margin: 10px;
+}
+
+.btn{
+  width: 50%;
+  margin: 10px;
+}
+
+.divHeader{
+  display: flex;
+  justify-content: center;
+}
+
+.pb{
+  display: flex;
+  flex-direction: column;
+}
+
+.pb2{
+  display: flex;
+  justify-content: center;
+}
+
+.btn-primary{
+  width: fit-content;
+}
+
+.card-img-top{
+  background-color: black;
+  width: 10rem;
+  height: 10rem;
+}
