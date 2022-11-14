@@ -11,7 +11,7 @@ function PokeInfo() {
                 <h5 className="card-title">Card title</h5>
             </div>
         <ul className="list-group list-group-flush">
-          <li className="list-group-item">Cras justo odio</li>
+          <li className="list-group-item">Cras odio</li>
           <li className="list-group-item">Dapibus ac facilisis in</li>
           <li className="list-group-item">Vestibulum at eros</li>
         </ul>
